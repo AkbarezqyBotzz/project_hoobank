@@ -136,8 +136,6 @@ export const footerLinks = [
       {
         name: "Newsletters",
         link: "https://www.hoobank.com/newsletters/", 
-      },
-    ],
   },
 ];
 
