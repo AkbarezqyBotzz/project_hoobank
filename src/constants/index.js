@@ -135,8 +135,8 @@ export const footerLinks = [
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/", 
-  },
+        link: "https://www.hoobank.com/newsletters/",
+      },
     ],
   },
   {
@@ -158,7 +158,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/eighty_four_",
+    link: "https://www.instagram.com/",
   },
   {
     id: "social-media-2",
@@ -184,7 +184,7 @@ export const clients = [
   },
   {
     id: "client-2",
-    logo: binane,
+    logo: binance,
   },
   {
     id: "client-3",
