@@ -135,22 +135,7 @@ export const footerLinks = [
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
-      },
-    ],
+        link: "https://www.hoobank.com/newsletters/", 
   },
 ];
 
@@ -158,7 +143,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/eighty_four_",
   },
   {
     id: "social-media-2",
@@ -184,7 +169,7 @@ export const clients = [
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: binane,
   },
   {
     id: "client-3",
