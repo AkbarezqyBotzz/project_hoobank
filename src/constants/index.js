@@ -90,15 +90,15 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Partner",
+    title: "Other",
     links: [
       {
-        name: "Our Partner",
+        name: "Gallery",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "Playlist Spotify",
+        link: "https://open.spotify.com/playlist/2Vte4EyrevcdJxPspb5BLX?si=l67Wrf5KQd2PHg_saWx-Bg&pi=a-muTUuJmfTACd",
       },
     ],
   },
