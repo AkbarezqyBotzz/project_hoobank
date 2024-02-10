@@ -108,7 +108,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/eighty_four_",
   },
   {
     id: "social-media-2",
