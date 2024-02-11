@@ -50,7 +50,7 @@ export const feedback = [
       "",
     name: "Endrayenti S.Pd",
     title: "Homeroom Teacher",
-    img: people01,
+    img: woman,
   },
   {
     id: "feedback-2",
@@ -58,7 +58,7 @@ export const feedback = [
       "",
     name: "Adza Nisrina",
     title: "Class Leader",
-    img: people02,
+    img: girl,
   },
   {
     id: "feedback-3",
@@ -66,7 +66,7 @@ export const feedback = [
       "",
     name: "Nabila Silvia Jane",
     title: "Vice of Class",
-    img: people03,
+    img: girl,
   },
 ];
 
