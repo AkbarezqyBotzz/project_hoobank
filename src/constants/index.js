@@ -50,7 +50,7 @@ export const feedback = [
       "",
     name: "Endrayenti S.Pd",
     title: "Homeroom Teacher",
-    img: woman,
+    img: girl2,
   },
   {
     id: "feedback-2",
