@@ -56,7 +56,7 @@ export const feedback = [
     id: "feedback-2",
     content:
       "",
-    name: "Adza Nisrina",
+    name: "Adza Nisrina Ramadniya",
     title: "Class Leader",
     img: people02,
   },
